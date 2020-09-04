@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8"/>
+    <title>Anime</title>
+</head>
+    <body>
+        <form action="http://www.example.com/animes.php">
+        <p>Nome:
+            <input type="text" name="Otaku" size="15" maxlength="30" />
+        </p>    
+        <p>Qual(s) desses anime(s) você já assistiu?:
+            <br>
+            <input type="checkbox" name="anime" value="naruto" checked="checked" /> Naruto
+            <input type="checkbox" name="anime" value="onepiece" checked="checked" /> One Piece
+            <input type="checkbox" name="anime" value="dragonball" checked="checked" /> Dragon Ball            
+            <input type="checkbox" name="anime" value="inuyasha" /> Inuyasha
+            <input type="checkbox" name="anime" value="bleach" checked="checked" /> Bleach
+            <input type="checkbox" name="anime" value="deathnote" checked="checked" /> Death Note
+        </p>
+        <p>Por favor, selecione seu anime favorito:
+            <br>
+            <input type="radio" name="anime" value="naruto" checked="checked" /> Naruto
+            <input type="radio" name="anime" value="onepiece" /> One Piece
+            <input type="radio" name="anime" value="dragonball" /> Dragon Ball            
+            <input type="radio" name="anime" value="inuyasha" /> Inuyasha
+            <input type="radio" name="anime" value="bleach" /> Bleach
+            <input type="radio" name="anime" value="deathnote" /> Death Note  
+            <input type="radio" name="anime" value="outro" /> Outro
+        </p>        
+        <p>Em qual site você prefere assistir animes?</p>
+        <select name="site">
+            <option value="goyabu">Goyabu</option>
+            <option value="netflix">Netflix</option>
+            <option value="crunchyroll">Crunchyroll</option>
+            <option value="outro">Outro</option>
+        </select>
+        </form>
+    </body
