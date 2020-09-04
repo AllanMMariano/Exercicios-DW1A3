@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Brasileirão 2017</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th></th>
+            <th scope="col">P</th>
+            <th scope="col">PJ</th>
+            <th scope="col">V</th>
+            <th scope="col">D</th>
+            <th scope="col">E</th>
+            <th scope="col">GP</th>
+            <th scope="col">GC</th>
+            <th scope="col">SG</th>            
+        </tr>
+        <tr>
+            <th scope="row">Corinthians</th>
+            <td>72</td>
+            <td>38</td>
+            <td>21</td>
+            <td>9</td>
+            <td>8</td>
+            <td>50</td>
+            <td>30</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <th scope="row">SemMundial</th>
+            <td>63</td>
+            <td>38</td>
+            <td>19</td>
+            <td>6</td>
+            <td>13</td>
+            <td>61</td>
+            <td>45</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <th scope="row">Santos</th>
+            <td>63</td>
+            <td>38</td>
+            <td>17</td>
+            <td>12</td>
+            <td>9</td>
+            <td>42</td>
+            <td>32</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <th scope="row">Grêmio</th>
+            <td>62</td>
+            <td>38</td>
+            <td>18</td>
+            <td>8</td>
+            <td>12</td>
+            <td>55</td>
+            <td>16</td>
+            <td>39</td>
+        </tr>
+        <tr>
+            <th scope="row">Cruzeiro</th>
+            <td>57</td>
+            <td>38</td>
+            <td>15</td>
+            <td>12</td>
+            <td>11</td>
+            <td>47</td>
+            <td>39</td>
+            <td>8</td>
+        </tr>        
+    </table>
+</body>
+</html>
