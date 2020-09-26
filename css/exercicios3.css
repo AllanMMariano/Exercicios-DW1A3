@@ -1,0 +1,46 @@
+
+body{
+	background-color: #92ea86;}
+	
+
+.conteudo{
+font-family: Helvetica;
+text-align: justify;
+color: rgb(0,0,0);}
+
+.fundotela{
+	background-color: white;
+}
+
+
+	h1{
+	background-color: rgba(56.7,74.7,60.0,0.5);
+	color: #0f00ff;
+	padding: 50px;
+	font-size: 80px;
+	font-family: Arial, Verdana, sans-serif;
+	text-align: center;}
+
+	h2{	
+	background-color: #899887;
+	color: black;
+	font-size: 35px;
+	padding: 10px;
+	font-family: Arial, Verdana, sans-serif;}
+	
+	h3{
+	color: black;
+	padding: 10px;
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 17px;}
+
+
+
+figcaption{
+	color: black;
+	font-family: Arial, Verdana, sans-serif;
+	font-style: italic;
+	 font-size: smaller;
+  text-indent: 0;
+}
+
